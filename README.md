@@ -1,46 +1,45 @@
 ## Instagram Web Scraper
 
-Este é um projeto de web scraping para extrair informações do Instagram usando o Puppeteer. O programa faz o login em uma conta do Instagram e extrai informações de um perfil específico.
+This is a web scraping project to extract information from Instagram using Puppeteer. The program logs into an Instagram account and extracts information from a specific profile.
 
 ## 👀 Overview
 
-Este é um gif demonstrando o projeto
+This is a gif demonstrating the project
 
 ![Preview-Screens](./src/assets/app.gif)
 
-## 🔧 Tecnologias
+## 🔧 Techs
 
-Este projeto utiliza as seguintes tecnologias:
+This project utilizes the following technologies:
 
-    Chalk - Para colorir a saída do console
-    Chalk-table - Para exibir tabelas coloridas no console
-    Dotenv - Para carregar variáveis de ambiente a partir de um arquivo .env
-    Puppeteer - Para realizar a automação do navegador
-    Yargs - Para criar uma interface de linha de comando
+    Chalk - To color the console output
+    Chalk-table - To display colorful tables in the console
+    Dotenv - To load environment variables from a .env file
+    Puppeteer - To perform browser automation
+    Yargs - To create a command-line interface
 
-## 💻 Pré-requisitos
+## 💻 Prerequisites
 
-Para executar este projeto, você precisará das seguintes coisas instaladas em seu computador:
+To run this project, you will need the following things installed on your computer:
 
-    Node.js (v14 ou superior)
-    npm (v6 ou superior)
-    Uma conta do Instagram com um nome de usuário e senha
+    Node.js (v14 or higher)
+    npm (v6 or higher)
+    An Instagram account with a username and password
 
 
-## 🧐 Contribuindo
+## 🧐 Contributing
 
-Se você quiser contribuir para este projeto, siga estes passos:
+If you want to contribute to this project, follow these steps:
 
-    Fork este repositório
-    Crie uma nova branch (git checkout -b nova-feature)
-    Faça as alterações desejadas e faça commit das suas mudanças (git commit -am 'Adiciona nova feature')
-    Envie para o branch (git push origin nova-feature)
-    Crie um novo Pull Request e aguarde o feedback
+    Fork this repository
+    Create a new branch (git checkout -b new-feature)
+    Make the desired changes and commit them (git commit -am 'Add new feature')
+    Push to the branch (git push origin new-feature)
+    Create a new Pull Request and await feedback
 
-## 🔑 Licença
+## 🔑 License
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
-
+This project is licensed under the MIT license. See the LICENSE file for more information.
 
 &nbsp;
 
